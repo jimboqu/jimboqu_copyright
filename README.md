@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-    @copyright = jimboqu_copyright::Renderer.copyright("James", "Reserved")
+    @copyright = JimboquCopyright::Renderer.copyright("James", "Reserved")
 ```
 
 ## Development
