@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Small gem to generate some copyright text dynamically}
   spec.description   = %q{Adding some flycopy at the bottom of the page. A logo, name, message}
-  spec.homepage      = "https://github.com/jimboqu"
+  spec.homepage      = "http:jimboqu.com"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
