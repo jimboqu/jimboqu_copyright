@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-'''ruby
+```ruby
     @copyright = JamesViewTool::Renderer.copyright("James", "Reserved")
-'''
+```
 
 ## Development
 
